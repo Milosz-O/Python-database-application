@@ -1,4 +1,4 @@
-# Python-database-application
+# Python_database_application
 Python application working with local database 
 
 The whole application was animals atlas where you could add, remove, change and show animals. I tried to make the GUI as simple as possible, but at the same time easy to
